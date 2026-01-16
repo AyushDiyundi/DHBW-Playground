@@ -1,2 +1,2 @@
 Hello !! 
-This program tries to s simple colour wave i cmd
+This program tries to make a simple colour wave in cmd
