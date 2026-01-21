@@ -1,2 +1,2 @@
 Hello !! 
-This program tries to make a simple colour wave in cmd
+This repo is for daily class assignments and projects,
