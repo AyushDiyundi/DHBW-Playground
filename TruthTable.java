@@ -1,5 +1,3 @@
-package Lesson2;
-
 public class TruthTable {
 
     // Define the AND function (per your style)
